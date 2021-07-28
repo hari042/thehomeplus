@@ -1,0 +1,3 @@
+# thehomeplus
+
+The project "ONLINE FURNITURE SHOPPIE" is a web based application that increase the efficiency of the shop and reduces the manual work it has index page as the starter were the user can view the item. To buy item users have to sign up. Without sign in the user can only view the product and its details. There are some privileges for the admin to manage the product, manage services, manage report, generate bill. The system also contains billing form where the bill with automatically calculated GST to the customer for the product purchased. The proposed system keeps track of stock and update it according to the daily sale
